@@ -1,0 +1,105 @@
+ID,Reason,Month,Day,Transportation expense,Residence Distance,Service time,Education,Son,Smoker,Pet,Weight,Height,Season,Drinker,Age Group,TimeOff
+1,28,11,4,15,6,9,High school,0,No,0,83,172,4,No,Adult,Medium
+17,22,2,2,23,18,12,High school,2,No,2,,167,2,No,Adult,High
+28,28,1,4,22,31,,High school,0,No,0,89,170,2,Yes,,Low
+20,23,1,2,19,7,13,High school,2,No,0,95,196,2,Yes,Adult,Low
+13,22,4,2,46,10,11,High school,3,No,,70,169,,Yes,Adult,Medium
+28,12,4,4,20,7,13,High school,2,No,0,95,196,3,Yes,Adult,Very High
+28,23,9,3,23,31,18,High school,0,No,0,,170,1,Yes,Adult,Medium
+22,23,12,3,23,16,9,Postgraduate,,No,0,56,171,4,No,Adult,Low
+10,26,12,6,29,12,13,High school,1,No,0,106,167,,Yes,,High
+12,13,3,3,20,7,14,High school,2,No,0,95,196,2,Yes,Adult,High
+10,0,0,3,14,8,12,High school,1,No,8,98,170,1,Yes,Middle Aged,Low
+3,22,10,2,46,10,12,High school,3,No,0,70,169,4,Yes,Adult,High
+16,28,5,4,29,,7,Postgraduate,0,,0,75,178,3,No,Adult,Low
+22,27,2,4,23,31,18,,0,No,0,,170,2,Yes,Adult,Low
+27,24,8,3,37,22,12,High school,2,No,1,90,172,1,Yes,Adult,High
+3,23,6,5,36,19,12,High school,,No,,73,171,3,Yes,Middle Aged,Medium
+15,23,11,4,28,16,,High school,1,No,2,69,169,4,No,Young Adult,Medium
+28,19,6,6,30,31,1,Graduate,1,No,8,68,178,3,,Adult,High
+22,28,5,2,21,,14,High school,2,No,0,95,196,3,,Adult,Low
+3,23,7,6,33,31,10,High school,4,No,0,65,168,1,Yes,Adult,Medium
+3,13,6,2,36,19,12,High school,1,,1,73,171,3,Yes,Middle Aged,Very High
+35,19,3,3,33,31,10,High school,,No,,65,168,2,Yes,Adult,High
+20,28,10,3,37,19,11,High school,,No,1,73,,4,Yes,Middle Aged,Medium
+24,23,8,5,42,9,3,Graduate,0,No,0,84,182,,No,Young Adult,Very High
+34,28,5,6,33,31,10,High school,4,No,,65,168,3,,Adult,Medium
+34,23,4,6,36,19,11,High school,,No,1,73,171,,Yes,,Medium
+25,8,5,2,22,13,16,Graduate,2,Yes,0,63,170,3,No,Middle Aged,Medium
+10,13,9,4,23,31,18,High school,0,No,0,,170,1,Yes,Adult,High
+15,13,3,4,20,7,13,,2,No,,95,196,3,,Adult,Very High
+21,22,6,5,47,30,10,High school,,Yes,4,65,174,3,No,Adult,High
+20,23,3,4,30,16,9,High school,1,No,2,69,169,2,,Young Adult,Low
+23,18,8,5,29,18,11,High school,,Yes,5,88,163,1,No,Middle Aged,High
+24,22,6,4,29,31,1,Graduate,1,No,,68,178,1,Yes,Adult,Medium
+34,23,5,2,15,8,18,,1,No,,98,178,3,Yes,Middle Aged,Low
+29,13,2,5,23,16,9,,0,No,0,56,171,2,No,Adult,Low
+9,22,3,4,46,,,High school,3,,0,70,169,3,Yes,Adult,High
+28,7,2,2,27,16,8,High school,1,No,2,,169,2,No,Young Adult,Low
+3,23,9,6,31,15,13,,2,No,1,86,165,1,,Middle Aged,Low
+20,28,11,3,21,31,18,High school,,,0,89,170,4,,Adult,Low
+25,28,6,2,23,31,18,High school,0,No,0,89,170,3,Yes,Adult,Very High
+5,23,9,5,37,19,12,High school,1,No,,73,171,1,Yes,Middle Aged,Medium
+6,26,10,2,37,22,12,High school,2,No,1,90,172,4,Yes,Adult,High
+10,13,3,4,14,8,17,,1,No,0,98,178,,Yes,Middle Aged,High
+20,28,4,6,37,16,13,High school,2,Yes,1,77,175,,Yes,Middle Aged,High
+25,22,6,2,46,,,High school,1,No,4,80,172,3,Yes,Young Adult,High
+28,28,5,3,15,6,10,High school,0,No,0,83,172,3,No,Adult,Low
+28,25,7,6,19,7,13,High school,2,No,0,95,196,1,Yes,,Low
+10,27,3,5,22,31,17,High school,0,No,0,89,170,2,,Adult,Medium
+11,10,8,4,41,9,4,Graduate,0,No,,84,182,1,No,Young Adult,High
+5,18,1,3,19,7,13,High school,2,No,0,95,196,2,,Adult,High
+32,6,5,4,28,16,8,High school,1,No,2,69,169,3,No,Young Adult,Medium
+3,27,2,5,23,31,17,,0,No,0,89,170,,,Adult,Low
+3,27,2,2,22,31,18,High school,,No,0,89,170,2,,Adult,Low
+14,1,7,4,14,8,,High school,1,No,0,98,178,1,Yes,Middle Aged,High
+20,19,5,6,37,16,13,High school,2,Yes,,77,175,,Yes,Middle Aged,Very High
+3,27,1,3,30,16,8,High school,,No,2,,169,2,No,Young Adult,Low
+34,25,2,5,29,16,9,High school,1,No,2,69,169,2,No,Young Adult,Medium
+22,23,11,5,37,19,12,,,No,1,73,171,4,Yes,Middle Aged,Medium
+11,28,5,5,19,7,14,High school,2,No,0,95,196,3,Yes,Adult,Low
+20,26,12,6,33,31,,High school,4,No,0,65,168,4,Yes,Adult,High
+11,13,6,2,23,16,8,Postgraduate,0,No,0,56,171,1,No,Adult,Medium
+5,18,1,6,23,13,16,Graduate,2,Yes,0,63,170,2,No,Middle Aged,Medium
+13,27,1,3,15,6,10,High school,0,No,0,83,172,2,No,Adult,Low
+21,28,8,3,14,,9,High school,0,No,0,83,172,,,Adult,Medium
+33,13,5,5,22,16,8,Postgraduate,0,,0,56,171,3,No,Adult,Low
+20,28,4,4,36,19,12,High school,1,No,1,73,171,3,Yes,Middle Aged,Low
+36,23,8,2,35,22,12,High school,,No,1,,172,,Yes,Adult,Low
+36,13,11,6,30,15,16,High school,,No,0,67,,4,Yes,Middle Aged,High
+34,26,2,5,31,15,16,,0,No,0,,170,2,Yes,Middle Aged,High
+34,28,10,3,15,8,18,High school,1,No,0,98,178,4,Yes,Middle Aged,Low
+3,1,10,4,23,,,Postgraduate,0,No,0,56,171,4,No,Adult,Medium
+28,28,7,3,31,15,15,High school,0,No,,67,170,1,Yes,Middle Aged,Low
+29,27,2,2,23,31,17,High school,0,No,,89,170,2,Yes,Adult,Medium
+36,1,2,4,30,15,14,High school,2,No,1,86,165,2,No,Middle Aged,High
+28,11,6,2,22,31,18,High school,0,,,,170,3,Yes,Adult,High
+1,22,7,4,45,32,2,High school,1,No,4,,172,1,,Young Adult,High
+28,11,6,3,40,9,4,Graduate,0,,0,84,,1,No,Young Adult,Low
+2,28,5,5,37,19,11,High school,1,No,1,73,171,3,Yes,Middle Aged,Low
+10,28,7,2,14,6,9,High school,0,No,0,,172,1,No,Adult,Medium
+31,28,4,3,21,7,14,,2,No,0,95,196,3,Yes,Adult,Low
+22,27,3,2,23,31,17,High school,0,No,0,89,,2,,Adult,Low
+18,28,3,2,22,31,17,High school,0,No,0,89,170,2,Yes,Adult,Very High
+23,19,3,4,31,15,16,High school,0,,0,,170,2,Yes,Middle Aged,Very High
+28,28,4,2,23,31,18,High school,0,,0,89,,3,,Adult,Medium
+3,0,6,2,30,18,,High school,,Yes,5,88,163,3,No,Middle Aged,Low
+3,10,1,5,37,,29,High school,0,No,2,108,172,2,No,Middle Aged,High
+36,6,10,2,29,9,7,Postgraduate,0,,0,75,178,4,,Adult,High
+22,27,2,4,22,31,18,High school,0,No,0,89,170,2,Yes,Adult,Medium
+22,23,8,2,45,32,2,High school,1,No,4,80,172,1,Yes,Young Adult,Low
+15,13,12,6,23,16,8,,0,No,0,56,171,4,No,Adult,Low
+13,13,2,3,22,31,18,High school,0,No,0,89,,2,Yes,Adult,High
+18,28,12,6,34,31,,High school,4,No,0,,168,4,Yes,Adult,Medium
+20,0,11,3,35,3,14,High school,2,Yes,0,,168,,Yes,Adult,Low
+3,19,1,2,14,,9,High school,0,No,0,83,172,2,No,Adult,Low
+15,28,2,5,20,7,14,High school,2,No,0,95,196,2,Yes,Adult,Low
+6,27,3,4,23,31,17,High school,0,No,,,170,2,Yes,Adult,Low
+8,25,12,3,14,6,9,High school,0,No,0,83,172,4,No,,High
+14,26,8,3,29,12,12,High school,1,No,0,106,167,1,Yes,Middle Aged,High
+34,28,4,6,32,31,10,High school,4,No,,65,,3,Yes,Adult,Medium
+28,28,3,2,29,16,8,High school,1,,2,69,,3,,Young Adult,Low
+20,28,10,5,15,8,17,High school,1,No,0,98,178,4,,Middle Aged,Low
+14,8,3,5,22,13,16,Graduate,2,,,63,170,2,No,Middle Aged,High
+28,0,5,4,47,30,11,,2,Yes,,65,174,,No,Adult,Low
+34,25,5,6,22,13,17,,2,Yes,0,63,170,,No,Middle Aged,High
